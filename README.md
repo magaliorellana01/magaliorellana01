@@ -17,7 +17,7 @@ Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando 
 
 <h3>Github stats:</h3> 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=magaliorellana01&theme=material-palenight)](https://github.com/magaliorellana01)
+![Magali's github stats](https://github-readme-stats.vercel.app/api?username=magaliorellana01&show_icons=true&theme=tokyonight) 
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
