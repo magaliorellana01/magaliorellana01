@@ -4,7 +4,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5YnVoa2ZzOWN5dG0zMWk5ZHJyMGRjN3o3MW94cWV2NngzdG41bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTvDjxtlP21mVBirI1/giphy.gif" width="40px">&nbsp;***Sobre mí***
 
-Soy estudiante de la Tecnicatura en Programación en la Universidad Nacional de Hurlingham, actualmente me encuentro cursando las ultimas 4 materias de la carrera.
+Soy estudiante de la Tecnicatura en Programación en la Universidad Nacional de Hurlingham, actualmente me encuentro cursando las últimas 4 materias de la carrera.
 También hice el curso de diseño web en Coderhouse, y un curso de diseño gráfico en la Academia Loopian.
 
 Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando en proyectos Back-end
