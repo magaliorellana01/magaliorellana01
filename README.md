@@ -28,8 +28,8 @@ Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"></code>
-<code><img width="40" height="40" src="https://github.com/user-attachments/assets/88a151b0-c77a-4012-95d3-944fd1237ed5" />
-</code>
+<code><img width="40" height="40" src="https://github.com/user-attachments/assets/88a151b0-c77a-4012-95d3-944fd1237ed5"></code>
+<code><img width="40" height="40" src="https://v4.mui.com/static/logo_raw.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <br/>
 <br>
