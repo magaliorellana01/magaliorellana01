@@ -15,10 +15,6 @@ Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando 
   - Php
   - C++
 
-<h3>Github stats:</h3> 
-
-![Magali's github stats](https://github-readme-stats.vercel.app/api?username=magaliorellana01&show_icons=true&theme=tokyonight) 
-
 <h3 align="left">Languages and Tools:</h3>
 <br>
 
