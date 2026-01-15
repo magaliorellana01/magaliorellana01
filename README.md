@@ -5,7 +5,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc5YnVoa2ZzOWN5dG0zMWk5ZHJyMGRjN3o3MW94cWV2NngzdG41bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NTvDjxtlP21mVBirI1/giphy.gif" width="40px">&nbsp;***Sobre mí***
 
 Soy Técnica en Programación recibida en la Universidad Nacional de Hurlingham.
-Además, amplié mis conocimientos en desarrollo web realizando el curso de React y diseño web en Coderhouse, así como un curso de diseño gráfico en la Academia Loopian.
+Además, amplié mis conocimientos en desarrollo web realizando el curso de React en Talento Tech y diseño web en Coderhouse, así como un curso de diseño gráfico en la Academia Loopian.
 
 Me apasiona el desarrollo Front-End aunque actualmente me estoy enfocando en proyectos Full-Stack
 * **Lenguajes que sigo aprendiendo**
