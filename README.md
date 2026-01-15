@@ -23,13 +23,15 @@ Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="40" height="40" src="https://github.com/user-attachments/assets/ae3116ab-e181-47c0-ae81-6c3fae277144"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img width="40" height="40" src="https://v4.mui.com/static/logo_raw.svg"></code>
+<code><img width="40" height="40" src="https://github.com/user-attachments/assets/578ed695-8101-4f81-8bbf-613a02d8e2a9"></code>
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"></code>
 <code><img width="40" height="40" src="https://github.com/user-attachments/assets/88a151b0-c77a-4012-95d3-944fd1237ed5"></code>
-<code><img width="40" height="40" src="https://v4.mui.com/static/logo_raw.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"></code>
 <br/>
 <br>
