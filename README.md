@@ -7,7 +7,7 @@
 Soy Técnica en Programación recibida en la Universidad Nacional de Hurlingham.
 También hice el curso de diseño web en Coderhouse, y un curso de diseño gráfico en la Academia Loopian.
 
-Me apasiona el desarrollo Front-end pero actualmente tambien me estoy enfocando en proyectos Back-end
+Me apasiona el desarrollo Front-End aunque actualmente me estoy enfocando en proyectos Full-Stack
 * **Lenguajes que sigo aprendiendo**
   - Java
   - Python
