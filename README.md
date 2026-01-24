@@ -36,9 +36,3 @@ Me apasiona el desarrollo Front-End aunque actualmente me estoy enfocando en pro
 <br/>
 <br>
 
-<h3>Connect with me ☕ :</h3>
-
-
-[![@magaliorellana01](https://img.icons8.com/fluency/48/000000/linkedin.png "@magaliorellana01")](https://www.linkedin.com/in/magali-orellana-858543217/) 
-
-<br>
