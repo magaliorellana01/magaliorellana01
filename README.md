@@ -17,7 +17,7 @@ Frontend
 
 Backend y bases de datos
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,mysql,mongodb" alt="Backend" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,mongodb" alt="Backend" /> </p>
 
 Análisis de datos
 
@@ -26,4 +26,3 @@ Análisis de datos
 Herramientas
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Herramientas" /> </p>
-
